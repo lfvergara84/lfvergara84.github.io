@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 360" role="img" aria-label="Measurement framework mapping research questions to measured dimensions and coded themes" font-family="IBM Plex Sans, Helvetica Neue, Arial, sans-serif" font-size="14" fill="#171E27">
+<defs><marker id="a" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0,0 L7,3.5 L0,7 z" fill="#1D4ED8"/></marker></defs>
+<rect width="960" height="360" fill="#FFFFFF"/>
+<rect x="0" y="0" width="960" height="56" fill="#E7F0FE"/><rect x="0" y="0" width="5" height="56" fill="#3B82F6"/><rect x="0" y="56" width="960" height="1" fill="#A7C7FB"/>
+<text x="24" y="29" font-size="17" font-weight="600" fill="#1D4ED8" text-anchor="start" font-family="Space Grotesk, IBM Plex Sans, Arial, sans-serif">What we measured, and how the pieces connect</text>
+<text x="24" y="46" font-size="11.5" font-weight="400" fill="#4B5563" text-anchor="start" font-family="IBM Plex Mono, Menlo, Consolas, monospace">AI summaries prototype · Gen Z and Millennial participants</text>
+<rect x="27" y="87" width="212" height="250" fill="#E7F0FE" opacity="0.85"/>
+<rect x="24" y="84" width="212" height="250" fill="#FFFFFF" stroke="#D9DBD3" stroke-width="1.2"/>
+<rect x="24" y="84" width="212" height="36" fill="#E7F0FE" stroke="#E7F0FE" stroke-width="0"/>
+<rect x="24" y="84" width="212" height="3" fill="#3B82F6" stroke="#3B82F6" stroke-width="0"/>
+<text x="40" y="107" font-size="13.5" font-weight="600" fill="#1D4ED8" text-anchor="start" font-family="Space Grotesk, IBM Plex Sans, Arial, sans-serif">Research questions</text>
+<text x="40" y="146" font-size="12.5" font-weight="400" fill="#171E27" text-anchor="start">– Which formats earn trust?</text>
+<text x="40" y="174" font-size="12.5" font-weight="400" fill="#171E27" text-anchor="start">– Are depth controls understood?</text>
+<text x="40" y="202" font-size="12.5" font-weight="400" fill="#171E27" text-anchor="start">– What drives return intent?</text>
+<line x1="236" y1="210" x2="260" y2="210" stroke="#1D4ED8" stroke-width="1.4" marker-end="url(#a)"/>
+<rect x="267" y="87" width="212" height="250" fill="#E7F0FE" opacity="0.85"/>
+<rect x="264" y="84" width="212" height="250" fill="#FFFFFF" stroke="#D9DBD3" stroke-width="1.2"/>
+<rect x="264" y="84" width="212" height="36" fill="#E7F0FE" stroke="#E7F0FE" stroke-width="0"/>
+<rect x="264" y="84" width="212" height="3" fill="#3B82F6" stroke="#3B82F6" stroke-width="0"/>
+<text x="280" y="107" font-size="13.5" font-weight="600" fill="#1D4ED8" text-anchor="start" font-family="Space Grotesk, IBM Plex Sans, Arial, sans-serif">Measured per format</text>
+<text x="280" y="146" font-size="12.5" font-weight="400" fill="#171E27" text-anchor="start">– Trust (5-pt)</text>
+<text x="280" y="174" font-size="12.5" font-weight="400" fill="#171E27" text-anchor="start">– Usefulness (5-pt)</text>
+<text x="280" y="202" font-size="12.5" font-weight="400" fill="#171E27" text-anchor="start">– Return intent (5-pt)</text>
+<text x="280" y="230" font-size="12.5" font-weight="400" fill="#171E27" text-anchor="start">– Task: find the full story</text>
+<line x1="476" y1="210" x2="500" y2="210" stroke="#1D4ED8" stroke-width="1.4" marker-end="url(#a)"/>
+<rect x="507" y="87" width="212" height="250" fill="#E7F0FE" opacity="0.85"/>
+<rect x="504" y="84" width="212" height="250" fill="#FFFFFF" stroke="#D9DBD3" stroke-width="1.2"/>
+<rect x="504" y="84" width="212" height="36" fill="#E7F0FE" stroke="#E7F0FE" stroke-width="0"/>
+<rect x="504" y="84" width="212" height="3" fill="#3B82F6" stroke="#3B82F6" stroke-width="0"/>
+<text x="520" y="107" font-size="13.5" font-weight="600" fill="#1D4ED8" text-anchor="start" font-family="Space Grotesk, IBM Plex Sans, Arial, sans-serif">Coded from open-ends</text>
+<text x="520" y="146" font-size="12.5" font-weight="400" fill="#171E27" text-anchor="start">– Source visibility</text>
+<text x="520" y="174" font-size="12.5" font-weight="400" fill="#171E27" text-anchor="start">– Sense of control</text>
+<text x="520" y="202" font-size="12.5" font-weight="400" fill="#171E27" text-anchor="start">– &#x27;Enough&#x27; threshold</text>
+<text x="520" y="230" font-size="12.5" font-weight="400" fill="#171E27" text-anchor="start">– Novelty vs habit</text>
+<line x1="716" y1="210" x2="740" y2="210" stroke="#1D4ED8" stroke-width="1.4" marker-end="url(#a)"/>
+<rect x="744" y="84" width="212" height="250" fill="#3B82F6" stroke="#3B82F6" stroke-width="1.2"/>
+<text x="760" y="107" font-size="13.5" font-weight="600" fill="#FFFFFF" text-anchor="start" font-family="Space Grotesk, IBM Plex Sans, Arial, sans-serif">Read together</text>
+<text x="760" y="146" font-size="13" font-weight="400" fill="#FFFFFF" text-anchor="start">– Ratings say what</text>
+<text x="760" y="174" font-size="13" font-weight="400" fill="#FFFFFF" text-anchor="start">– Codes say why</text>
+<text x="760" y="202" font-size="13" font-weight="400" fill="#FFFFFF" text-anchor="start">– Divergence = insight</text>
+</svg>

@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 258" role="img" aria-label="Lifecycle of a research request from intake to repository" font-family="IBM Plex Sans, Helvetica Neue, Arial, sans-serif" font-size="14" fill="#171E27">
+<defs><marker id="a" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0,0 L7,3.5 L0,7 z" fill="#047857"/></marker></defs>
+<rect width="960" height="258" fill="#FFFFFF"/>
+<rect x="0" y="0" width="960" height="56" fill="#E2F7F0"/><rect x="0" y="0" width="5" height="56" fill="#10B981"/><rect x="0" y="56" width="960" height="1" fill="#93E0C6"/>
+<text x="24" y="29" font-size="17" font-weight="600" fill="#047857" text-anchor="start" font-family="Space Grotesk, IBM Plex Sans, Arial, sans-serif">A request, end to end</text>
+<text x="24" y="46" font-size="11.5" font-weight="400" fill="#4B5563" text-anchor="start" font-family="IBM Plex Mono, Menlo, Consolas, monospace">typical cycle: 2 to 3 weeks from ticket to share-out</text>
+<rect x="27" y="87" width="140" height="86" fill="#E2F7F0" opacity="0.85"/>
+<rect x="24" y="84" width="140" height="86" fill="#FFFFFF" stroke="#4B5563" stroke-width="1.2"/>
+<rect x="24" y="84" width="140" height="3" fill="#10B981"/>
+<text x="94.0" y="122.0" font-size="13" font-weight="600" fill="#171E27" text-anchor="middle" font-family="Space Grotesk, IBM Plex Sans, Arial, sans-serif">Request</text>
+<text x="94.0" y="138.0" font-size="11.5" font-weight="400" fill="#4B5563" text-anchor="middle" font-family="IBM Plex Mono, Menlo, Consolas, monospace">Jira ticket</text>
+<rect x="138" y="84" width="26" height="20" fill="#047857" stroke="#047857" stroke-width="0"/>
+<text x="151" y="98" font-size="10.5" font-weight="600" fill="#FFFFFF" text-anchor="middle" font-family="IBM Plex Mono, Menlo, Consolas, monospace">01</text>
+<line x1="164" y1="127" x2="180" y2="127" stroke="#047857" stroke-width="1.4" marker-end="url(#a)"/>
+<rect x="183" y="87" width="140" height="86" fill="#E2F7F0" opacity="0.85"/>
+<rect x="180" y="84" width="140" height="86" fill="#E2F7F0" stroke="#10B981" stroke-width="1.2"/>
+<rect x="180" y="84" width="140" height="3" fill="#10B981"/>
+<text x="250.0" y="115.0" font-size="13" font-weight="600" fill="#047857" text-anchor="middle" font-family="Space Grotesk, IBM Plex Sans, Arial, sans-serif">Triage</text>
+<text x="250.0" y="131.0" font-size="11.5" font-weight="400" fill="#047857" text-anchor="middle" font-family="IBM Plex Mono, Menlo, Consolas, monospace">decision it</text>
+<text x="250.0" y="145.0" font-size="11.5" font-weight="400" fill="#047857" text-anchor="middle" font-family="IBM Plex Mono, Menlo, Consolas, monospace">informs?</text>
+<rect x="294" y="84" width="26" height="20" fill="#047857" stroke="#047857" stroke-width="0"/>
+<text x="307" y="98" font-size="10.5" font-weight="600" fill="#FFFFFF" text-anchor="middle" font-family="IBM Plex Mono, Menlo, Consolas, monospace">02</text>
+<line x1="320" y1="127" x2="336" y2="127" stroke="#047857" stroke-width="1.4" marker-end="url(#a)"/>
+<rect x="339" y="87" width="140" height="86" fill="#E2F7F0" opacity="0.85"/>
+<rect x="336" y="84" width="140" height="86" fill="#FFFFFF" stroke="#4B5563" stroke-width="1.2"/>
+<rect x="336" y="84" width="140" height="3" fill="#10B981"/>
+<text x="406.0" y="115.0" font-size="13" font-weight="600" fill="#171E27" text-anchor="middle" font-family="Space Grotesk, IBM Plex Sans, Arial, sans-serif">Recruit</text>
+<text x="406.0" y="131.0" font-size="11.5" font-weight="400" fill="#4B5563" text-anchor="middle" font-family="IBM Plex Mono, Menlo, Consolas, monospace">lists · screener</text>
+<text x="406.0" y="145.0" font-size="11.5" font-weight="400" fill="#4B5563" text-anchor="middle" font-family="IBM Plex Mono, Menlo, Consolas, monospace">· NDA</text>
+<rect x="450" y="84" width="26" height="20" fill="#047857" stroke="#047857" stroke-width="0"/>
+<text x="463" y="98" font-size="10.5" font-weight="600" fill="#FFFFFF" text-anchor="middle" font-family="IBM Plex Mono, Menlo, Consolas, monospace">03</text>
+<line x1="476" y1="127" x2="492" y2="127" stroke="#047857" stroke-width="1.4" marker-end="url(#a)"/>
+<rect x="495" y="87" width="140" height="86" fill="#E2F7F0" opacity="0.85"/>
+<rect x="492" y="84" width="140" height="86" fill="#FFFFFF" stroke="#4B5563" stroke-width="1.2"/>
+<rect x="492" y="84" width="140" height="3" fill="#10B981"/>
+<text x="562.0" y="122.0" font-size="13" font-weight="600" fill="#171E27" text-anchor="middle" font-family="Space Grotesk, IBM Plex Sans, Arial, sans-serif">Field</text>
+<text x="562.0" y="138.0" font-size="11.5" font-weight="400" fill="#4B5563" text-anchor="middle" font-family="IBM Plex Mono, Menlo, Consolas, monospace">1 to 2 weeks</text>
+<rect x="606" y="84" width="26" height="20" fill="#047857" stroke="#047857" stroke-width="0"/>
+<text x="619" y="98" font-size="10.5" font-weight="600" fill="#FFFFFF" text-anchor="middle" font-family="IBM Plex Mono, Menlo, Consolas, monospace">04</text>
+<line x1="632" y1="127" x2="648" y2="127" stroke="#047857" stroke-width="1.4" marker-end="url(#a)"/>
+<rect x="651" y="87" width="140" height="86" fill="#E2F7F0" opacity="0.85"/>
+<rect x="648" y="84" width="140" height="86" fill="#E2F7F0" stroke="#10B981" stroke-width="1.2"/>
+<rect x="648" y="84" width="140" height="3" fill="#10B981"/>
+<text x="718.0" y="115.0" font-size="13" font-weight="600" fill="#047857" text-anchor="middle" font-family="Space Grotesk, IBM Plex Sans, Arial, sans-serif">Deliver</text>
+<text x="718.0" y="131.0" font-size="11.5" font-weight="400" fill="#047857" text-anchor="middle" font-family="IBM Plex Mono, Menlo, Consolas, monospace">report +</text>
+<text x="718.0" y="145.0" font-size="11.5" font-weight="400" fill="#047857" text-anchor="middle" font-family="IBM Plex Mono, Menlo, Consolas, monospace">share-out</text>
+<rect x="762" y="84" width="26" height="20" fill="#047857" stroke="#047857" stroke-width="0"/>
+<text x="775" y="98" font-size="10.5" font-weight="600" fill="#FFFFFF" text-anchor="middle" font-family="IBM Plex Mono, Menlo, Consolas, monospace">05</text>
+<line x1="788" y1="127" x2="804" y2="127" stroke="#047857" stroke-width="1.4" marker-end="url(#a)"/>
+<rect x="807" y="87" width="140" height="86" fill="#E2F7F0" opacity="0.85"/>
+<rect x="804" y="84" width="140" height="86" fill="#10B981" stroke="#10B981" stroke-width="1.2"/>
+<text x="874.0" y="115.0" font-size="13" font-weight="600" fill="#FFFFFF" text-anchor="middle" font-family="Space Grotesk, IBM Plex Sans, Arial, sans-serif">Repository</text>
+<text x="874.0" y="131.0" font-size="11.5" font-weight="400" fill="#E2F7F0" text-anchor="middle" font-family="IBM Plex Mono, Menlo, Consolas, monospace">tagged ·</text>
+<text x="874.0" y="145.0" font-size="11.5" font-weight="400" fill="#E2F7F0" text-anchor="middle" font-family="IBM Plex Mono, Menlo, Consolas, monospace">searchable</text>
+<rect x="918" y="84" width="26" height="20" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0"/>
+<text x="931" y="98" font-size="10.5" font-weight="600" fill="#047857" text-anchor="middle" font-family="IBM Plex Mono, Menlo, Consolas, monospace">06</text>
+<text x="480" y="222" font-size="12.5" font-weight="400" fill="#4B5563" text-anchor="middle">Enablement templates let PMs and designers run steps 02 to 04 themselves for lightweight studies.</text>
+</svg>

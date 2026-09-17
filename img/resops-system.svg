@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 560" role="img" aria-label="Research operations system: team structure and the four-stage pipeline" font-family="IBM Plex Sans, Helvetica Neue, Arial, sans-serif" font-size="14" fill="#171E27">
+<defs><marker id="a" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0,0 L7,3.5 L0,7 z" fill="#047857"/></marker></defs>
+<rect width="960" height="560" fill="#FFFFFF"/>
+<rect x="0" y="0" width="960" height="56" fill="#E2F7F0"/><rect x="0" y="0" width="5" height="56" fill="#10B981"/><rect x="0" y="56" width="960" height="1" fill="#93E0C6"/>
+<text x="24" y="29" font-size="17" font-weight="600" fill="#047857" text-anchor="start" font-family="Space Grotesk, IBM Plex Sans, Arial, sans-serif">Research operations as a product</text>
+<text x="24" y="46" font-size="11.5" font-weight="400" fill="#4B5563" text-anchor="start" font-family="IBM Plex Mono, Menlo, Consolas, monospace">team of 17 · 1 UXR director · 2 research managers · 1 research operations (me) · 13 researchers</text>
+<rect x="24" y="80" width="912" height="64" fill="#F4F4F0" stroke="#D9DBD3" stroke-width="1.2"/>
+<rect x="40" y="96" width="110" height="32" fill="#E2F7F0" stroke="#10B981" stroke-width="1.2"/>
+<text x="95" y="117" font-size="12" font-weight="600" fill="#047857" text-anchor="middle" font-family="Space Grotesk, IBM Plex Sans, Arial, sans-serif">Director</text>
+<rect x="160" y="96" width="110" height="32" fill="#E2F7F0" stroke="#10B981" stroke-width="1.2"/>
+<text x="215" y="117" font-size="12" font-weight="600" fill="#047857" text-anchor="middle" font-family="Space Grotesk, IBM Plex Sans, Arial, sans-serif">Manager 1</text>
+<rect x="278" y="96" width="110" height="32" fill="#E2F7F0" stroke="#10B981" stroke-width="1.2"/>
+<text x="333" y="117" font-size="12" font-weight="600" fill="#047857" text-anchor="middle" font-family="Space Grotesk, IBM Plex Sans, Arial, sans-serif">Manager 2</text>
+<rect x="396" y="96" width="110" height="32" fill="#10B981" stroke="#10B981" stroke-width="1.2"/>
+<text x="451" y="117" font-size="12" font-weight="600" fill="#FFFFFF" text-anchor="middle" font-family="Space Grotesk, IBM Plex Sans, Arial, sans-serif">Research Ops</text>
+<rect x="526" y="102" width="20" height="20" fill="#93E0C6" stroke="#10B981" stroke-width="1.2"/>
+<rect x="556" y="102" width="20" height="20" fill="#93E0C6" stroke="#10B981" stroke-width="1.2"/>
+<rect x="586" y="102" width="20" height="20" fill="#93E0C6" stroke="#10B981" stroke-width="1.2"/>
+<rect x="616" y="102" width="20" height="20" fill="#93E0C6" stroke="#10B981" stroke-width="1.2"/>
+<rect x="646" y="102" width="20" height="20" fill="#93E0C6" stroke="#10B981" stroke-width="1.2"/>
+<rect x="676" y="102" width="20" height="20" fill="#93E0C6" stroke="#10B981" stroke-width="1.2"/>
+<rect x="706" y="102" width="20" height="20" fill="#93E0C6" stroke="#10B981" stroke-width="1.2"/>
+<rect x="736" y="102" width="20" height="20" fill="#93E0C6" stroke="#10B981" stroke-width="1.2"/>
+<rect x="766" y="102" width="20" height="20" fill="#93E0C6" stroke="#10B981" stroke-width="1.2"/>
+<rect x="796" y="102" width="20" height="20" fill="#93E0C6" stroke="#10B981" stroke-width="1.2"/>
+<rect x="826" y="102" width="20" height="20" fill="#93E0C6" stroke="#10B981" stroke-width="1.2"/>
+<rect x="856" y="102" width="20" height="20" fill="#93E0C6" stroke="#10B981" stroke-width="1.2"/>
+<rect x="886" y="102" width="20" height="20" fill="#93E0C6" stroke="#10B981" stroke-width="1.2"/>
+<text x="728" y="153" font-size="11" font-weight="400" fill="#4B5563" text-anchor="middle" font-family="IBM Plex Mono, Menlo, Consolas, monospace">13 researchers</text>
+<rect x="27" y="183" width="216" height="320" fill="#E2F7F0" opacity="0.85"/>
+<rect x="24" y="180" width="216" height="320" fill="#FFFFFF" stroke="#D9DBD3" stroke-width="1.2"/>
+<rect x="24" y="180" width="216" height="36" fill="#E2F7F0" stroke="#E2F7F0" stroke-width="0"/>
+<rect x="24" y="180" width="216" height="3" fill="#10B981" stroke="#10B981" stroke-width="0"/>
+<text x="40" y="203" font-size="13.5" font-weight="600" fill="#047857" text-anchor="start" font-family="Space Grotesk, IBM Plex Sans, Arial, sans-serif">01  Recruit</text>
+<text x="40" y="242" font-size="12.5" font-weight="400" fill="#171E27" text-anchor="start">– Jira: list requests</text>
+<text x="40" y="268" font-size="12.5" font-weight="400" fill="#171E27" text-anchor="start">– Qualtrics screeners</text>
+<text x="40" y="294" font-size="12.5" font-weight="400" fill="#171E27" text-anchor="start">– DocuSign NDAs</text>
+<text x="40" y="320" font-size="12.5" font-weight="400" fill="#171E27" text-anchor="start">– Calendly scheduling</text>
+<rect x="40" y="428" width="184" height="44" fill="#047857" stroke="#047857" stroke-width="1.2"/>
+<text x="132" y="454" font-size="11.5" font-weight="600" fill="#FFFFFF" text-anchor="middle" font-family="Space Grotesk, IBM Plex Sans, Arial, sans-serif">vetted lists, ready to field</text>
+<line x1="240" y1="340" x2="262" y2="340" stroke="#047857" stroke-width="1.4" marker-end="url(#a)"/>
+<rect x="259" y="183" width="216" height="320" fill="#E2F7F0" opacity="0.85"/>
+<rect x="256" y="180" width="216" height="320" fill="#FFFFFF" stroke="#D9DBD3" stroke-width="1.2"/>
+<rect x="256" y="180" width="216" height="36" fill="#E2F7F0" stroke="#E2F7F0" stroke-width="0"/>
+<rect x="256" y="180" width="216" height="3" fill="#10B981" stroke="#10B981" stroke-width="0"/>
+<text x="272" y="203" font-size="13.5" font-weight="600" fill="#047857" text-anchor="start" font-family="Space Grotesk, IBM Plex Sans, Arial, sans-serif">02  Run</text>
+<text x="272" y="242" font-size="12.5" font-weight="400" fill="#171E27" text-anchor="start">– UserTesting / UserZoom</text>
+<text x="272" y="268" font-size="12.5" font-weight="400" fill="#171E27" text-anchor="start">– Outset AI interviews</text>
+<text x="272" y="294" font-size="12.5" font-weight="400" fill="#171E27" text-anchor="start">– Qualtrics surveys</text>
+<text x="272" y="320" font-size="12.5" font-weight="400" fill="#171E27" text-anchor="start">– Zoom sessions</text>
+<rect x="272" y="428" width="184" height="44" fill="#047857" stroke="#047857" stroke-width="1.2"/>
+<text x="364" y="454" font-size="11.5" font-weight="600" fill="#FFFFFF" text-anchor="middle" font-family="Space Grotesk, IBM Plex Sans, Arial, sans-serif">studies built to spec</text>
+<line x1="472" y1="340" x2="494" y2="340" stroke="#047857" stroke-width="1.4" marker-end="url(#a)"/>
+<rect x="491" y="183" width="216" height="320" fill="#E2F7F0" opacity="0.85"/>
+<rect x="488" y="180" width="216" height="320" fill="#FFFFFF" stroke="#D9DBD3" stroke-width="1.2"/>
+<rect x="488" y="180" width="216" height="36" fill="#E2F7F0" stroke="#E2F7F0" stroke-width="0"/>
+<rect x="488" y="180" width="216" height="3" fill="#10B981" stroke="#10B981" stroke-width="0"/>
+<text x="504" y="203" font-size="13.5" font-weight="600" fill="#047857" text-anchor="start" font-family="Space Grotesk, IBM Plex Sans, Arial, sans-serif">03  Consolidate</text>
+<text x="504" y="242" font-size="12.5" font-weight="400" fill="#171E27" text-anchor="start">– Shared repository</text>
+<text x="504" y="268" font-size="12.5" font-weight="400" fill="#171E27" text-anchor="start">– Plan + report templates</text>
+<text x="504" y="294" font-size="12.5" font-weight="400" fill="#171E27" text-anchor="start">– Tagging by product area</text>
+<rect x="504" y="428" width="184" height="44" fill="#047857" stroke="#047857" stroke-width="1.2"/>
+<text x="596" y="454" font-size="11.5" font-weight="600" fill="#FFFFFF" text-anchor="middle" font-family="Space Grotesk, IBM Plex Sans, Arial, sans-serif">findings that resurface</text>
+<line x1="704" y1="340" x2="726" y2="340" stroke="#047857" stroke-width="1.4" marker-end="url(#a)"/>
+<rect x="723" y="183" width="216" height="320" fill="#E2F7F0" opacity="0.85"/>
+<rect x="720" y="180" width="216" height="320" fill="#FFFFFF" stroke="#D9DBD3" stroke-width="1.2"/>
+<rect x="720" y="180" width="216" height="36" fill="#E2F7F0" stroke="#E2F7F0" stroke-width="0"/>
+<rect x="720" y="180" width="216" height="3" fill="#10B981" stroke="#10B981" stroke-width="0"/>
+<text x="736" y="203" font-size="13.5" font-weight="600" fill="#047857" text-anchor="start" font-family="Space Grotesk, IBM Plex Sans, Arial, sans-serif">04  Reward &amp; govern</text>
+<text x="736" y="242" font-size="12.5" font-weight="400" fill="#171E27" text-anchor="start">– Tango / Tremendous</text>
+<text x="736" y="268" font-size="12.5" font-weight="400" fill="#171E27" text-anchor="start">– Budget tracking</text>
+<text x="736" y="294" font-size="12.5" font-weight="400" fill="#171E27" text-anchor="start">– Licenses &amp; access</text>
+<text x="736" y="320" font-size="12.5" font-weight="400" fill="#171E27" text-anchor="start">– Compliance</text>
+<rect x="736" y="428" width="184" height="44" fill="#047857" stroke="#047857" stroke-width="1.2"/>
+<text x="828" y="454" font-size="11.5" font-weight="600" fill="#FFFFFF" text-anchor="middle" font-family="Space Grotesk, IBM Plex Sans, Arial, sans-serif">participants paid, books clean</text>
+<text x="480" y="536" font-size="12.5" font-weight="400" fill="#4B5563" text-anchor="middle">Researchers are the users of this system. Every stage has an owner, a template and something they can count on.</text>
+</svg>

@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-label="Synthesis board: open-ended responses clustered into scan mode and read mode themes" font-family="IBM Plex Sans, Helvetica Neue, Arial, sans-serif" font-size="14" fill="#171E27">
+<defs><marker id="a" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0,0 L7,3.5 L0,7 z" fill="#1D4ED8"/></marker></defs>
+<rect width="960" height="600" fill="#FFFFFF"/>
+<rect x="0" y="0" width="960" height="56" fill="#E7F0FE"/><rect x="0" y="0" width="5" height="56" fill="#3B82F6"/><rect x="0" y="56" width="960" height="1" fill="#A7C7FB"/>
+<text x="24" y="29" font-size="17" font-weight="600" fill="#1D4ED8" text-anchor="start" font-family="Space Grotesk, IBM Plex Sans, Arial, sans-serif">Synthesis board</text>
+<text x="24" y="46" font-size="11.5" font-weight="400" fill="#4B5563" text-anchor="start" font-family="IBM Plex Mono, Menlo, Consolas, monospace">grid vs linear feed · open-ended responses coded into themes · quotes paraphrased</text>
+<rect x="24" y="80" width="440" height="392" fill="#F4F4F0" stroke="#D9DBD3" stroke-width="1.2"/>
+<rect x="24" y="80" width="440" height="38" fill="#E7F0FE" stroke="#E7F0FE" stroke-width="0"/>
+<rect x="24" y="80" width="4" height="38" fill="#3B82F6" stroke="#3B82F6" stroke-width="0"/>
+<text x="44" y="104" font-size="14.5" font-weight="600" fill="#1D4ED8" text-anchor="start" font-family="Space Grotesk, IBM Plex Sans, Arial, sans-serif">Scan mode · mostly grid</text>
+<rect x="496" y="80" width="440" height="392" fill="#F4F4F0" stroke="#D9DBD3" stroke-width="1.2"/>
+<rect x="496" y="80" width="440" height="38" fill="#E7F0FE" stroke="#E7F0FE" stroke-width="0"/>
+<rect x="496" y="80" width="4" height="38" fill="#3B82F6" stroke="#3B82F6" stroke-width="0"/>
+<text x="516" y="104" font-size="14.5" font-weight="600" fill="#1D4ED8" text-anchor="start" font-family="Space Grotesk, IBM Plex Sans, Arial, sans-serif">Read mode · mostly linear</text>
+<rect x="47" y="137" width="118" height="64" fill="#E7F0FE" opacity="0.85"/>
+<rect x="44" y="134" width="118" height="64" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0"/>
+<rect x="44" y="134" width="118" height="3" fill="#3B82F6" stroke="#3B82F6" stroke-width="0"/>
+<text x="53" y="158" font-size="11.5" font-weight="400" fill="#171E27" text-anchor="start">I just look for</text>
+<text x="53" y="173" font-size="11.5" font-weight="400" fill="#171E27" text-anchor="start">one thing worth</text>
+<text x="53" y="188" font-size="11.5" font-weight="400" fill="#171E27" text-anchor="start">opening</text>
+<rect x="187" y="137" width="118" height="64" fill="#E7F0FE" opacity="0.85"/>
+<rect x="184" y="134" width="118" height="64" fill="#E7F0FE" stroke="#E7F0FE" stroke-width="0"/>
+<rect x="184" y="134" width="118" height="3" fill="#3B82F6" stroke="#3B82F6" stroke-width="0"/>
+<text x="193" y="158" font-size="11.5" font-weight="400" fill="#171E27" text-anchor="start">Quick check</text>
+<text x="193" y="173" font-size="11.5" font-weight="400" fill="#171E27" text-anchor="start">during coffee</text>
+<rect x="327" y="137" width="118" height="64" fill="#E7F0FE" opacity="0.85"/>
+<rect x="324" y="134" width="118" height="64" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0"/>
+<rect x="324" y="134" width="118" height="3" fill="#3B82F6" stroke="#3B82F6" stroke-width="0"/>
+<text x="333" y="158" font-size="11.5" font-weight="400" fill="#171E27" text-anchor="start">Too many tiles,</text>
+<text x="333" y="173" font-size="11.5" font-weight="400" fill="#171E27" text-anchor="start">I skim and leave</text>
+<rect x="47" y="219" width="118" height="64" fill="#E7F0FE" opacity="0.85"/>
+<rect x="44" y="216" width="118" height="64" fill="#E7F0FE" stroke="#E7F0FE" stroke-width="0"/>
+<rect x="44" y="216" width="118" height="3" fill="#3B82F6" stroke="#3B82F6" stroke-width="0"/>
+<text x="53" y="240" font-size="11.5" font-weight="400" fill="#171E27" text-anchor="start">Headlines do</text>
+<text x="53" y="255" font-size="11.5" font-weight="400" fill="#171E27" text-anchor="start">the work</text>
+<rect x="187" y="219" width="118" height="64" fill="#E7F0FE" opacity="0.85"/>
+<rect x="184" y="216" width="118" height="64" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0"/>
+<rect x="184" y="216" width="118" height="3" fill="#3B82F6" stroke="#3B82F6" stroke-width="0"/>
+<text x="193" y="240" font-size="11.5" font-weight="400" fill="#171E27" text-anchor="start">I don&#x27;t scroll,</text>
+<text x="193" y="255" font-size="11.5" font-weight="400" fill="#171E27" text-anchor="start">I glance</text>
+<rect x="327" y="219" width="118" height="64" fill="#E7F0FE" opacity="0.85"/>
+<rect x="324" y="216" width="118" height="64" fill="#E7F0FE" stroke="#E7F0FE" stroke-width="0"/>
+<rect x="324" y="216" width="118" height="3" fill="#3B82F6" stroke="#3B82F6" stroke-width="0"/>
+<text x="333" y="240" font-size="11.5" font-weight="400" fill="#171E27" text-anchor="start">Pictures decide</text>
+<text x="333" y="255" font-size="11.5" font-weight="400" fill="#171E27" text-anchor="start">what I click</text>
+<rect x="47" y="301" width="118" height="64" fill="#E7F0FE" opacity="0.85"/>
+<rect x="44" y="298" width="118" height="64" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0"/>
+<rect x="44" y="298" width="118" height="3" fill="#3B82F6" stroke="#3B82F6" stroke-width="0"/>
+<text x="53" y="322" font-size="11.5" font-weight="400" fill="#171E27" text-anchor="start">Feels like a</text>
+<text x="53" y="337" font-size="11.5" font-weight="400" fill="#171E27" text-anchor="start">kiosk</text>
+<rect x="187" y="301" width="118" height="64" fill="#E7F0FE" opacity="0.85"/>
+<rect x="184" y="298" width="118" height="64" fill="#E7F0FE" stroke="#E7F0FE" stroke-width="0"/>
+<rect x="184" y="298" width="118" height="3" fill="#3B82F6" stroke="#3B82F6" stroke-width="0"/>
+<text x="193" y="322" font-size="11.5" font-weight="400" fill="#171E27" text-anchor="start">Two minutes,</text>
+<text x="193" y="337" font-size="11.5" font-weight="400" fill="#171E27" text-anchor="start">then back to work</text>
+<rect x="327" y="301" width="118" height="64" fill="#E7F0FE" opacity="0.85"/>
+<rect x="324" y="298" width="118" height="64" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0"/>
+<rect x="324" y="298" width="118" height="3" fill="#3B82F6" stroke="#3B82F6" stroke-width="0"/>
+<text x="333" y="322" font-size="11.5" font-weight="400" fill="#171E27" text-anchor="start">I miss things</text>
+<text x="333" y="337" font-size="11.5" font-weight="400" fill="#171E27" text-anchor="start">but don&#x27;t mind</text>
+<rect x="519" y="137" width="118" height="64" fill="#E7F0FE" opacity="0.85"/>
+<rect x="516" y="134" width="118" height="64" fill="#E7F0FE" stroke="#E7F0FE" stroke-width="0"/>
+<rect x="516" y="134" width="118" height="3" fill="#3B82F6" stroke="#3B82F6" stroke-width="0"/>
+<text x="525" y="158" font-size="11.5" font-weight="400" fill="#171E27" text-anchor="start">I read the first</text>
+<text x="525" y="173" font-size="11.5" font-weight="400" fill="#171E27" text-anchor="start">one fully</text>
+<rect x="659" y="137" width="118" height="64" fill="#E7F0FE" opacity="0.85"/>
+<rect x="656" y="134" width="118" height="64" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0"/>
+<rect x="656" y="134" width="118" height="3" fill="#3B82F6" stroke="#3B82F6" stroke-width="0"/>
+<text x="665" y="158" font-size="11.5" font-weight="400" fill="#171E27" text-anchor="start">It feels like</text>
+<text x="665" y="173" font-size="11.5" font-weight="400" fill="#171E27" text-anchor="start">a newspaper</text>
+<rect x="799" y="137" width="118" height="64" fill="#E7F0FE" opacity="0.85"/>
+<rect x="796" y="134" width="118" height="64" fill="#E7F0FE" stroke="#E7F0FE" stroke-width="0"/>
+<rect x="796" y="134" width="118" height="3" fill="#3B82F6" stroke="#3B82F6" stroke-width="0"/>
+<text x="805" y="158" font-size="11.5" font-weight="400" fill="#171E27" text-anchor="start">I scroll further</text>
+<text x="805" y="173" font-size="11.5" font-weight="400" fill="#171E27" text-anchor="start">than I meant to</text>
+<rect x="519" y="219" width="118" height="64" fill="#E7F0FE" opacity="0.85"/>
+<rect x="516" y="216" width="118" height="64" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0"/>
+<rect x="516" y="216" width="118" height="3" fill="#3B82F6" stroke="#3B82F6" stroke-width="0"/>
+<text x="525" y="240" font-size="11.5" font-weight="400" fill="#171E27" text-anchor="start">Less choice,</text>
+<text x="525" y="255" font-size="11.5" font-weight="400" fill="#171E27" text-anchor="start">more reading</text>
+<rect x="659" y="219" width="118" height="64" fill="#E7F0FE" opacity="0.85"/>
+<rect x="656" y="216" width="118" height="64" fill="#E7F0FE" stroke="#E7F0FE" stroke-width="0"/>
+<rect x="656" y="216" width="118" height="3" fill="#3B82F6" stroke="#3B82F6" stroke-width="0"/>
+<text x="665" y="240" font-size="11.5" font-weight="400" fill="#171E27" text-anchor="start">Slower, but I</text>
+<text x="665" y="255" font-size="11.5" font-weight="400" fill="#171E27" text-anchor="start">remember more</text>
+<rect x="799" y="219" width="118" height="64" fill="#E7F0FE" opacity="0.85"/>
+<rect x="796" y="216" width="118" height="64" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0"/>
+<rect x="796" y="216" width="118" height="3" fill="#3B82F6" stroke="#3B82F6" stroke-width="0"/>
+<text x="805" y="240" font-size="11.5" font-weight="400" fill="#171E27" text-anchor="start">I want this at</text>
+<text x="805" y="255" font-size="11.5" font-weight="400" fill="#171E27" text-anchor="start">night, not at work</text>
+<rect x="519" y="301" width="118" height="64" fill="#E7F0FE" opacity="0.85"/>
+<rect x="516" y="298" width="118" height="64" fill="#E7F0FE" stroke="#E7F0FE" stroke-width="0"/>
+<rect x="516" y="298" width="118" height="3" fill="#3B82F6" stroke="#3B82F6" stroke-width="0"/>
+<text x="525" y="322" font-size="11.5" font-weight="400" fill="#171E27" text-anchor="start">One story leads</text>
+<text x="525" y="337" font-size="11.5" font-weight="400" fill="#171E27" text-anchor="start">to the next</text>
+<rect x="659" y="301" width="118" height="64" fill="#E7F0FE" opacity="0.85"/>
+<rect x="656" y="298" width="118" height="64" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0"/>
+<rect x="656" y="298" width="118" height="3" fill="#3B82F6" stroke="#3B82F6" stroke-width="0"/>
+<text x="665" y="322" font-size="11.5" font-weight="400" fill="#171E27" text-anchor="start">Feels calmer</text>
+<rect x="799" y="301" width="118" height="64" fill="#E7F0FE" opacity="0.85"/>
+<rect x="796" y="298" width="118" height="64" fill="#E7F0FE" stroke="#E7F0FE" stroke-width="0"/>
+<rect x="796" y="298" width="118" height="3" fill="#3B82F6" stroke="#3B82F6" stroke-width="0"/>
+<text x="805" y="322" font-size="11.5" font-weight="400" fill="#171E27" text-anchor="start">I lose track of</text>
+<text x="805" y="337" font-size="11.5" font-weight="400" fill="#171E27" text-anchor="start">time here</text>
+<text x="44" y="408" font-size="13" font-weight="600" fill="#171E27" text-anchor="start" font-family="Space Grotesk, IBM Plex Sans, Arial, sans-serif">Theme · speed and exit</text>
+<text x="44" y="428" font-size="12.5" font-weight="400" fill="#4B5563" text-anchor="start">Grid invites fast triage.</text>
+<text x="44" y="446" font-size="12.5" font-weight="400" fill="#4B5563" text-anchor="start">Success = leaving quickly with one good pick.</text>
+<text x="516" y="408" font-size="13" font-weight="600" fill="#171E27" text-anchor="start" font-family="Space Grotesk, IBM Plex Sans, Arial, sans-serif">Theme · depth and drift</text>
+<text x="516" y="428" font-size="12.5" font-weight="400" fill="#4B5563" text-anchor="start">Linear invites continued reading.</text>
+<text x="516" y="446" font-size="12.5" font-weight="400" fill="#4B5563" text-anchor="start">Success = staying, with a risk of &#x27;lost time&#x27;.</text>
+<rect x="27" y="503" width="912" height="52" fill="#E7F0FE" stroke="#E7F0FE" stroke-width="0"/>
+<rect x="24" y="500" width="912" height="52" fill="#1D4ED8" stroke="#1D4ED8" stroke-width="0"/>
+<rect x="24" y="500" width="6" height="52" fill="#3B82F6" stroke="#3B82F6" stroke-width="0"/>
+<text x="480.0" y="531.0" font-size="13.5" font-weight="600" fill="#FFFFFF" text-anchor="middle" font-family="Space Grotesk, IBM Plex Sans, Arial, sans-serif">Finding: layout sets the mindset. Choose the layout for the job the surface is hired to do, not for looks.</text>
+</svg>

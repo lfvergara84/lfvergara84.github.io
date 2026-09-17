@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 560" role="img" aria-label="Opportunity map from upstream discovery: five content-experience areas plotted by user value and trust required" font-family="IBM Plex Sans, Helvetica Neue, Arial, sans-serif" font-size="14" fill="#171E27">
+<defs><marker id="a" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0,0 L7,3.5 L0,7 z" fill="#1D4ED8"/></marker></defs>
+<rect width="960" height="560" fill="#FFFFFF"/>
+<rect x="0" y="0" width="960" height="56" fill="#E7F0FE"/><rect x="0" y="0" width="5" height="56" fill="#3B82F6"/><rect x="0" y="56" width="960" height="1" fill="#A7C7FB"/>
+<text x="24" y="29" font-size="17" font-weight="600" fill="#1D4ED8" text-anchor="start" font-family="Space Grotesk, IBM Plex Sans, Arial, sans-serif">Opportunity map</text>
+<text x="24" y="46" font-size="11.5" font-weight="400" fill="#4B5563" text-anchor="start" font-family="IBM Plex Mono, Menlo, Consolas, monospace">upstream discovery · editorial and content experiences in an AI assistant · generic area names</text>
+<path d="M110,90 V490 M150,90 V490 M190,90 V490 M230,90 V490 M270,90 V490 M310,90 V490 M350,90 V490 M390,90 V490 M430,90 V490 M470,90 V490 M510,90 V490 M550,90 V490 M590,90 V490 M630,90 V490 M670,90 V490 M710,90 V490 M750,90 V490 M790,90 V490 M830,90 V490 M870,90 V490 M110,90 H870 M110,130 H870 M110,170 H870 M110,210 H870 M110,250 H870 M110,290 H870 M110,330 H870 M110,370 H870 M110,410 H870 M110,450 H870 M110,490 H870" stroke="#D9DBD3" stroke-width="0.5" fill="none" opacity="0.7"/>
+<rect x="110" y="90" width="760" height="400" fill="none" stroke="#4B5563" stroke-width="1.2"/>
+<line x1="110" y1="290.0" x2="870" y2="290.0" stroke="#4B5563" stroke-width="1.2"/>
+<line x1="490.0" y1="90" x2="490.0" y2="490" stroke="#4B5563" stroke-width="1.2"/>
+<text x="490.0" y="520" font-size="12" font-weight="600" fill="#4B5563" text-anchor="middle" font-family="IBM Plex Mono, Menlo, Consolas, monospace">user value  →</text>
+<text x="80" y="290.0" font-size="12" font-weight="600" fill="#4B5563" text-anchor="middle" font-family="IBM Plex Mono, Menlo, Consolas, monospace" transform="rotate(-90 80 290.0)">trust required  →</text>
+<text x="862" y="108" font-size="10.5" font-weight="400" fill="#4B5563" text-anchor="end" font-family="IBM Plex Mono, Menlo, Consolas, monospace">high value · high trust</text>
+<text x="862" y="480" font-size="10.5" font-weight="400" fill="#4B5563" text-anchor="end" font-family="IBM Plex Mono, Menlo, Consolas, monospace">high value · low trust</text>
+<text x="118" y="480" font-size="10.5" font-weight="400" fill="#4B5563" text-anchor="start" font-family="IBM Plex Mono, Menlo, Consolas, monospace">low value · low trust</text>
+<text x="118" y="108" font-size="10.5" font-weight="400" fill="#4B5563" text-anchor="start" font-family="IBM Plex Mono, Menlo, Consolas, monospace">low value · high trust</text>
+<rect x="726.1999999999999" y="235.0" width="14" height="14" fill="#3B82F6" stroke="#1D4ED8" stroke-width="1.4"/>
+<text x="745.1999999999999" y="246.0" font-size="12" font-weight="600" fill="#171E27" text-anchor="start">Summaries with visible sources</text>
+<rect x="604.6" y="323.0" width="14" height="14" fill="#E7F0FE" stroke="#1D4ED8" stroke-width="1.4"/>
+<text x="623.6" y="334.0" font-size="12" font-weight="400" fill="#171E27" text-anchor="start">Daily briefing in the assistant</text>
+<rect x="467.8" y="363.0" width="14" height="14" fill="#E7F0FE" stroke="#1D4ED8" stroke-width="1.4"/>
+<text x="486.8" y="374.0" font-size="12" font-weight="400" fill="#171E27" text-anchor="start">Editorial recommendations</text>
+<rect x="543.8" y="171.0" width="14" height="14" fill="#E7F0FE" stroke="#1D4ED8" stroke-width="1.4"/>
+<text x="562.8" y="182.0" font-size="12" font-weight="400" fill="#171E27" text-anchor="start">Assistant-curated news</text>
+<rect x="361.40000000000003" y="219.0" width="14" height="14" fill="#E7F0FE" stroke="#1D4ED8" stroke-width="1.4"/>
+<text x="380.40000000000003" y="230.0" font-size="12" font-weight="400" fill="#171E27" text-anchor="start">Conversation about a story</text>
+</svg>

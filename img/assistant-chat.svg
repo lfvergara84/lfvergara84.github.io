@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 780" role="img" aria-label="Two WhatsApp conversations with the financial assistant: logging an expense where the assistant proposes a category and asks for confirmation, and a weekly summary with a follow-up alert" font-family="IBM Plex Sans, Helvetica Neue, Arial, sans-serif" font-size="14" fill="#171E27">
+<defs><marker id="a" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0,0 L7,3.5 L0,7 z" fill="#6D28D9"/></marker></defs>
+<rect width="960" height="780" fill="#FFFFFF"/>
+<rect x="0" y="0" width="960" height="56" fill="#F1EBFE"/><rect x="0" y="0" width="5" height="56" fill="#8B5CF6"/><rect x="0" y="56" width="960" height="1" fill="#CBB6FB"/>
+<text x="24" y="29" font-size="17" font-weight="600" fill="#6D28D9" text-anchor="start" font-family="Space Grotesk, IBM Plex Sans, Arial, sans-serif">Financial assistant · conversation flows</text>
+<text x="24" y="46" font-size="11.5" font-weight="400" fill="#4B5563" text-anchor="start" font-family="IBM Plex Mono, Menlo, Consolas, monospace">beta · redrawn in English · amounts in USD</text>
+<rect x="44" y="116" width="400" height="640" fill="#F1EBFE" stroke="#F1EBFE" stroke-width="0"/>
+<rect x="40" y="112" width="400" height="640" fill="#0B141A" stroke="#171E27" stroke-width="1.4"/>
+<rect x="40" y="112" width="400" height="54" fill="#1F2C34" stroke="#1F2C34" stroke-width="0"/>
+<image x="56" y="125" width="28" height="28" href="data:image/png;base64,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"/>
+<text x="94" y="136" font-size="13.5" font-weight="600" fill="#E9EDEF" text-anchor="start" font-family="Space Grotesk, IBM Plex Sans, Arial, sans-serif">Financial assistant</text>
+<text x="94" y="152" font-size="10.5" font-weight="400" fill="#8696A0" text-anchor="start" font-family="IBM Plex Mono, Menlo, Consolas, monospace">online</text>
+<rect x="50" y="708" width="380" height="32" fill="#202C33" stroke="#202C33" stroke-width="0"/>
+<text x="64" y="729" font-size="11.5" font-weight="400" fill="#8696A0" text-anchor="start">Message</text>
+<rect x="40" y="82" width="385.2" height="22" fill="#6D28D9" stroke="#6D28D9" stroke-width="0"/>
+<text x="232.6" y="97" font-size="11" font-weight="600" fill="#FFFFFF" text-anchor="middle" font-family="IBM Plex Mono, Menlo, Consolas, monospace">Logging · the assistant proposes, the user confirms</text>
+<rect x="152" y="180" width="272" height="42" fill="#005C4B" stroke="#005C4B" stroke-width="0"/>
+<text x="164" y="204" font-size="11.5" font-weight="400" fill="#E9EDEF" text-anchor="start">I spent $50 on Karo&#x27;s birthday</text>
+<text x="414" y="216" font-size="8.5" font-weight="400" fill="#8696A0" text-anchor="end" font-family="IBM Plex Mono, Menlo, Consolas, monospace">10:14  ✓✓</text>
+<rect x="54" y="230" width="300" height="138" fill="#202C33" stroke="#202C33" stroke-width="0"/>
+<rect x="54" y="230" width="3" height="138" fill="#8B5CF6" stroke="#8B5CF6" stroke-width="0"/>
+<text x="66" y="254" font-size="11.5" font-weight="600" fill="#E9EDEF" text-anchor="start">Karo&#x27;s birthday</text>
+<text x="66" y="270" font-size="11.5" font-weight="400" fill="#E9EDEF" text-anchor="start">$50.00  ·  Celebrations &amp; parties</text>
+<text x="66" y="286" font-size="11.5" font-weight="400" fill="#E9EDEF" text-anchor="start">today, 11 Sep</text>
+<text x="66" y="302" font-size="11.5" font-weight="400" fill="#E9EDEF" text-anchor="start"></text>
+<text x="66" y="318" font-size="11.5" font-weight="400" fill="#E9EDEF" text-anchor="start">↻ Same as last time (10 Aug):</text>
+<text x="66" y="334" font-size="11.5" font-weight="400" fill="#E9EDEF" text-anchor="start">Celebrations &amp; parties.</text>
+<text x="66" y="350" font-size="11.5" font-weight="400" fill="#E9EDEF" text-anchor="start">Confirm? (reply yes)</text>
+<text x="344" y="362" font-size="8.5" font-weight="400" fill="#8696A0" text-anchor="end" font-family="IBM Plex Mono, Menlo, Consolas, monospace">10:14</text>
+<rect x="54" y="372" width="300" height="30" fill="#202C33" stroke="#202C33" stroke-width="0"/>
+<line x1="54" y1="372" x2="354" y2="372" stroke="#2A3942" stroke-width="1"/>
+<text x="204.0" y="392" font-size="11.5" font-weight="600" fill="#53BDEB" text-anchor="middle">Confirm</text>
+<rect x="54" y="402" width="300" height="30" fill="#202C33" stroke="#202C33" stroke-width="0"/>
+<line x1="54" y1="402" x2="354" y2="402" stroke="#2A3942" stroke-width="1"/>
+<text x="204.0" y="422" font-size="11.5" font-weight="600" fill="#53BDEB" text-anchor="middle">Change category</text>
+<rect x="54" y="432" width="300" height="30" fill="#202C33" stroke="#202C33" stroke-width="0"/>
+<line x1="54" y1="432" x2="354" y2="432" stroke="#2A3942" stroke-width="1"/>
+<text x="204.0" y="452" font-size="11.5" font-weight="600" fill="#53BDEB" text-anchor="middle">Cancel</text>
+<rect x="152" y="472" width="272" height="42" fill="#005C4B" stroke="#005C4B" stroke-width="0"/>
+<text x="164" y="496" font-size="11.5" font-weight="400" fill="#E9EDEF" text-anchor="start">Confirm</text>
+<text x="414" y="508" font-size="8.5" font-weight="400" fill="#8696A0" text-anchor="end" font-family="IBM Plex Mono, Menlo, Consolas, monospace">10:15  ✓✓</text>
+<rect x="54" y="522" width="300" height="106" fill="#202C33" stroke="#202C33" stroke-width="0"/>
+<rect x="54" y="522" width="3" height="106" fill="#8B5CF6" stroke="#8B5CF6" stroke-width="0"/>
+<text x="66" y="546" font-size="11.5" font-weight="600" fill="#E9EDEF" text-anchor="start">Logged: $50.00 in</text>
+<text x="66" y="562" font-size="11.5" font-weight="400" fill="#E9EDEF" text-anchor="start">Celebrations &amp; parties — it&#x27;s in your</text>
+<text x="66" y="578" font-size="11.5" font-weight="400" fill="#E9EDEF" text-anchor="start">September spending now.</text>
+<text x="66" y="594" font-size="11.5" font-weight="400" fill="#E9EDEF" text-anchor="start"></text>
+<text x="66" y="610" font-size="11.5" font-weight="400" fill="#E9EDEF" text-anchor="start">September so far: $2,015.40</text>
+<text x="344" y="622" font-size="8.5" font-weight="400" fill="#8696A0" text-anchor="end" font-family="IBM Plex Mono, Menlo, Consolas, monospace">10:15</text>
+<rect x="54" y="640" width="300" height="38" fill="#F1EBFE" stroke="#8B5CF6" stroke-width="1.2"/>
+<text x="204" y="664" font-size="10.5" font-weight="600" fill="#6D28D9" text-anchor="middle" font-family="IBM Plex Mono, Menlo, Consolas, monospace">Propose from history, never assume</text>
+<rect x="524" y="116" width="400" height="640" fill="#F1EBFE" stroke="#F1EBFE" stroke-width="0"/>
+<rect x="520" y="112" width="400" height="640" fill="#0B141A" stroke="#171E27" stroke-width="1.4"/>
+<rect x="520" y="112" width="400" height="54" fill="#1F2C34" stroke="#1F2C34" stroke-width="0"/>
+<image x="536" y="125" width="28" height="28" href="data:image/png;base64,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"/>
+<text x="574" y="136" font-size="13.5" font-weight="600" fill="#E9EDEF" text-anchor="start" font-family="Space Grotesk, IBM Plex Sans, Arial, sans-serif">Financial assistant</text>
+<text x="574" y="152" font-size="10.5" font-weight="400" fill="#8696A0" text-anchor="start" font-family="IBM Plex Mono, Menlo, Consolas, monospace">online</text>
+<rect x="530" y="708" width="380" height="32" fill="#202C33" stroke="#202C33" stroke-width="0"/>
+<text x="544" y="729" font-size="11.5" font-weight="400" fill="#8696A0" text-anchor="start">Message</text>
+<rect x="520" y="82" width="277.2" height="22" fill="#6D28D9" stroke="#6D28D9" stroke-width="0"/>
+<text x="658.6" y="97" font-size="11" font-weight="600" fill="#FFFFFF" text-anchor="middle" font-family="IBM Plex Mono, Menlo, Consolas, monospace">Weekly summary · and an opt-in alert</text>
+<rect x="534" y="180" width="300" height="146" fill="#202C33" stroke="#202C33" stroke-width="0"/>
+<rect x="534" y="180" width="3" height="146" fill="#8B5CF6" stroke="#8B5CF6" stroke-width="0"/>
+<text x="546" y="204" font-size="12" font-weight="600" fill="#E9EDEF" text-anchor="start" font-family="Space Grotesk, IBM Plex Sans, Arial, sans-serif">Weekly summary · Sunday 8:00</text>
+<text x="546" y="228" font-size="10.5" font-weight="400" fill="#8696A0" text-anchor="start" font-family="IBM Plex Mono, Menlo, Consolas, monospace">Income</text>
+<text x="822" y="228" font-size="10.5" font-weight="600" fill="#25D366" text-anchor="end" font-family="IBM Plex Mono, Menlo, Consolas, monospace">+ $800.00</text>
+<text x="546" y="246" font-size="10.5" font-weight="400" fill="#8696A0" text-anchor="start" font-family="IBM Plex Mono, Menlo, Consolas, monospace">Spending</text>
+<text x="822" y="246" font-size="10.5" font-weight="600" fill="#F15C6D" text-anchor="end" font-family="IBM Plex Mono, Menlo, Consolas, monospace">- $461.75</text>
+<text x="546" y="264" font-size="10.5" font-weight="400" fill="#8696A0" text-anchor="start" font-family="IBM Plex Mono, Menlo, Consolas, monospace">Net saved</text>
+<text x="822" y="264" font-size="10.5" font-weight="600" fill="#A78BFA" text-anchor="end" font-family="IBM Plex Mono, Menlo, Consolas, monospace">$338.25  (42%)</text>
+<text x="546" y="292" font-size="9" font-weight="400" fill="#8696A0" text-anchor="start" font-family="IBM Plex Mono, Menlo, Consolas, monospace">Housing</text>
+<rect x="612" y="284" width="200" height="7" fill="#2A3942" stroke="#2A3942" stroke-width="0"/>
+<rect x="612" y="284" width="130.0" height="7" fill="#8B5CF6" stroke="#8B5CF6" stroke-width="0"/>
+<text x="546" y="305" font-size="9" font-weight="400" fill="#8696A0" text-anchor="start" font-family="IBM Plex Mono, Menlo, Consolas, monospace">Food</text>
+<rect x="612" y="297" width="200" height="7" fill="#2A3942" stroke="#2A3942" stroke-width="0"/>
+<rect x="612" y="297" width="90.0" height="7" fill="#8B5CF6" stroke="#8B5CF6" stroke-width="0"/>
+<text x="546" y="318" font-size="9" font-weight="400" fill="#8696A0" text-anchor="start" font-family="IBM Plex Mono, Menlo, Consolas, monospace">Delivery</text>
+<rect x="612" y="310" width="200" height="7" fill="#2A3942" stroke="#2A3942" stroke-width="0"/>
+<rect x="612" y="310" width="44.0" height="7" fill="#8B5CF6" stroke="#8B5CF6" stroke-width="0"/>
+<rect x="632" y="336" width="272" height="42" fill="#005C4B" stroke="#005C4B" stroke-width="0"/>
+<text x="644" y="360" font-size="11.5" font-weight="400" fill="#E9EDEF" text-anchor="start">How much on delivery this week?</text>
+<text x="894" y="372" font-size="8.5" font-weight="400" fill="#8696A0" text-anchor="end" font-family="IBM Plex Mono, Menlo, Consolas, monospace">8:04  ✓✓</text>
+<rect x="534" y="386" width="300" height="106" fill="#202C33" stroke="#202C33" stroke-width="0"/>
+<rect x="534" y="386" width="3" height="106" fill="#8B5CF6" stroke="#8B5CF6" stroke-width="0"/>
+<text x="546" y="410" font-size="11.5" font-weight="600" fill="#E9EDEF" text-anchor="start">Delivery this week: $15.50</text>
+<text x="546" y="426" font-size="11.5" font-weight="400" fill="#E9EDEF" text-anchor="start">3 orders. Your fastest-growing</text>
+<text x="546" y="442" font-size="11.5" font-weight="400" fill="#E9EDEF" text-anchor="start">category, +41% vs last week.</text>
+<text x="546" y="458" font-size="11.5" font-weight="400" fill="#E9EDEF" text-anchor="start"></text>
+<text x="546" y="474" font-size="11.5" font-weight="400" fill="#E9EDEF" text-anchor="start">Want an alert above $7.50 a week?</text>
+<text x="824" y="486" font-size="8.5" font-weight="400" fill="#8696A0" text-anchor="end" font-family="IBM Plex Mono, Menlo, Consolas, monospace">8:05</text>
+<rect x="632" y="500" width="272" height="42" fill="#005C4B" stroke="#005C4B" stroke-width="0"/>
+<text x="644" y="524" font-size="11.5" font-weight="400" fill="#E9EDEF" text-anchor="start">Yes, set that alert</text>
+<text x="894" y="536" font-size="8.5" font-weight="400" fill="#8696A0" text-anchor="end" font-family="IBM Plex Mono, Menlo, Consolas, monospace">8:05  ✓✓</text>
+<rect x="534" y="550" width="300" height="74" fill="#202C33" stroke="#202C33" stroke-width="0"/>
+<rect x="534" y="550" width="3" height="74" fill="#8B5CF6" stroke="#8B5CF6" stroke-width="0"/>
+<text x="546" y="574" font-size="11.5" font-weight="600" fill="#E9EDEF" text-anchor="start">Alert set. I&#x27;ll message you when</text>
+<text x="546" y="590" font-size="11.5" font-weight="400" fill="#E9EDEF" text-anchor="start">weekly delivery passes $7.50.</text>
+<text x="546" y="606" font-size="11.5" font-weight="400" fill="#E9EDEF" text-anchor="start">Counting from Monday.</text>
+<text x="824" y="618" font-size="8.5" font-weight="400" fill="#8696A0" text-anchor="end" font-family="IBM Plex Mono, Menlo, Consolas, monospace">8:06</text>
+<rect x="534" y="636" width="300" height="38" fill="#F1EBFE" stroke="#8B5CF6" stroke-width="1.2"/>
+<text x="684" y="660" font-size="10.5" font-weight="600" fill="#6D28D9" text-anchor="middle" font-family="IBM Plex Mono, Menlo, Consolas, monospace">Summaries invite a question; alerts are opt-in</text>
+</svg>

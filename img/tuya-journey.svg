@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 420" role="img" aria-label="Journey map for the digital wallet with research touchpoints" font-family="IBM Plex Sans, Helvetica Neue, Arial, sans-serif" font-size="14" fill="#171E27">
+<defs><marker id="a" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0,0 L7,3.5 L0,7 z" fill="#B91C1C"/></marker></defs>
+<rect width="960" height="420" fill="#FFFFFF"/>
+<rect x="0" y="0" width="960" height="56" fill="#FDE9E9"/><rect x="0" y="0" width="5" height="56" fill="#EF4444"/><rect x="0" y="56" width="960" height="1" fill="#F8ABAB"/>
+<text x="24" y="29" font-size="17" font-weight="600" fill="#B91C1C" text-anchor="start" font-family="Space Grotesk, IBM Plex Sans, Arial, sans-serif">Wallet journey map with research touchpoints</text>
+<text x="24" y="46" font-size="11.5" font-weight="400" fill="#4B5563" text-anchor="start" font-family="IBM Plex Mono, Menlo, Consolas, monospace">highlighted stages are where a first-time user is most likely to lose their nerve</text>
+<rect x="27" y="87" width="170" height="54" fill="#FDE9E9" opacity="0.85"/>
+<rect x="24" y="84" width="170" height="54" fill="#FFFFFF" stroke="#4B5563" stroke-width="1.2"/>
+<rect x="24" y="84" width="170" height="3" fill="#EF4444"/>
+<text x="109.0" y="116.0" font-size="13" font-weight="600" fill="#171E27" text-anchor="middle" font-family="Space Grotesk, IBM Plex Sans, Arial, sans-serif">Discover &amp; install</text>
+<line x1="194" y1="111" x2="210" y2="111" stroke="#B91C1C" stroke-width="1.4" marker-end="url(#a)"/>
+<rect x="213" y="87" width="170" height="54" fill="#FDE9E9" opacity="0.85"/>
+<rect x="210" y="84" width="170" height="54" fill="#EF4444" stroke="#EF4444" stroke-width="1.2"/>
+<text x="295.0" y="116.0" font-size="13" font-weight="600" fill="#FFFFFF" text-anchor="middle" font-family="Space Grotesk, IBM Plex Sans, Arial, sans-serif">Sign-up &amp; verify</text>
+<line x1="380" y1="111" x2="396" y2="111" stroke="#B91C1C" stroke-width="1.4" marker-end="url(#a)"/>
+<rect x="399" y="87" width="170" height="54" fill="#FDE9E9" opacity="0.85"/>
+<rect x="396" y="84" width="170" height="54" fill="#EF4444" stroke="#EF4444" stroke-width="1.2"/>
+<text x="481.0" y="116.0" font-size="13" font-weight="600" fill="#FFFFFF" text-anchor="middle" font-family="Space Grotesk, IBM Plex Sans, Arial, sans-serif">First transaction</text>
+<line x1="566" y1="111" x2="582" y2="111" stroke="#B91C1C" stroke-width="1.4" marker-end="url(#a)"/>
+<rect x="585" y="87" width="170" height="54" fill="#FDE9E9" opacity="0.85"/>
+<rect x="582" y="84" width="170" height="54" fill="#FFFFFF" stroke="#4B5563" stroke-width="1.2"/>
+<rect x="582" y="84" width="170" height="3" fill="#EF4444"/>
+<text x="667.0" y="116.0" font-size="13" font-weight="600" fill="#171E27" text-anchor="middle" font-family="Space Grotesk, IBM Plex Sans, Arial, sans-serif">Recurring use</text>
+<line x1="752" y1="111" x2="768" y2="111" stroke="#B91C1C" stroke-width="1.4" marker-end="url(#a)"/>
+<rect x="771" y="87" width="170" height="54" fill="#FDE9E9" opacity="0.85"/>
+<rect x="768" y="84" width="170" height="54" fill="#FFFFFF" stroke="#4B5563" stroke-width="1.2"/>
+<rect x="768" y="84" width="170" height="3" fill="#EF4444"/>
+<text x="853.0" y="116.0" font-size="13" font-weight="600" fill="#171E27" text-anchor="middle" font-family="Space Grotesk, IBM Plex Sans, Arial, sans-serif">Drop-off / return</text>
+<text x="24" y="182" font-size="13" font-weight="600" fill="#171E27" text-anchor="start" font-family="Space Grotesk, IBM Plex Sans, Arial, sans-serif">Friction we studied</text>
+<rect x="24" y="192" width="170" height="34" fill="#F4F4F0" stroke="#D9DBD3" stroke-width="1.2"/>
+<text x="109" y="213" font-size="11.5" font-weight="400" fill="#171E27" text-anchor="middle">store listing clarity</text>
+<rect x="210" y="192" width="170" height="34" fill="#F4F4F0" stroke="#D9DBD3" stroke-width="1.2"/>
+<text x="295" y="213" font-size="11.5" font-weight="400" fill="#171E27" text-anchor="middle">ID upload, OTP delays</text>
+<rect x="396" y="192" width="170" height="34" fill="#F4F4F0" stroke="#D9DBD3" stroke-width="1.2"/>
+<text x="481" y="213" font-size="11.5" font-weight="400" fill="#171E27" text-anchor="middle">fear of first money move</text>
+<rect x="582" y="192" width="170" height="34" fill="#F4F4F0" stroke="#D9DBD3" stroke-width="1.2"/>
+<text x="667" y="213" font-size="11.5" font-weight="400" fill="#171E27" text-anchor="middle">fee visibility, habit</text>
+<rect x="768" y="192" width="170" height="34" fill="#F4F4F0" stroke="#D9DBD3" stroke-width="1.2"/>
+<text x="853" y="213" font-size="11.5" font-weight="400" fill="#171E27" text-anchor="middle">re-engagement triggers</text>
+<text x="24" y="254" font-size="13" font-weight="600" fill="#171E27" text-anchor="start" font-family="Space Grotesk, IBM Plex Sans, Arial, sans-serif">Method</text>
+<rect x="24" y="264" width="170" height="34" fill="#FDE9E9" stroke="#EF4444" stroke-width="1.2"/>
+<text x="109" y="285" font-size="11.5" font-weight="400" fill="#171E27" text-anchor="middle">store review analysis</text>
+<rect x="210" y="264" width="170" height="34" fill="#FDE9E9" stroke="#EF4444" stroke-width="1.2"/>
+<text x="295" y="285" font-size="11.5" font-weight="400" fill="#171E27" text-anchor="middle">moderated usability</text>
+<rect x="396" y="264" width="170" height="34" fill="#FDE9E9" stroke="#EF4444" stroke-width="1.2"/>
+<text x="481" y="285" font-size="11.5" font-weight="400" fill="#171E27" text-anchor="middle">concept + prototype tests</text>
+<rect x="582" y="264" width="170" height="34" fill="#FDE9E9" stroke="#EF4444" stroke-width="1.2"/>
+<text x="667" y="285" font-size="11.5" font-weight="400" fill="#171E27" text-anchor="middle">survey + analytics</text>
+<rect x="768" y="264" width="170" height="34" fill="#FDE9E9" stroke="#EF4444" stroke-width="1.2"/>
+<text x="853" y="285" font-size="11.5" font-weight="400" fill="#171E27" text-anchor="middle">interviews, reviews</text>
+<text x="24" y="326" font-size="13" font-weight="600" fill="#171E27" text-anchor="start" font-family="Space Grotesk, IBM Plex Sans, Arial, sans-serif">What changed</text>
+<rect x="24" y="336" width="170" height="34" fill="#B91C1C" stroke="#B91C1C" stroke-width="1.2"/>
+<text x="109" y="357" font-size="11.5" font-weight="600" fill="#FFFFFF" text-anchor="middle">listing revised</text>
+<rect x="210" y="336" width="170" height="34" fill="#B91C1C" stroke="#B91C1C" stroke-width="1.2"/>
+<text x="295" y="357" font-size="11.5" font-weight="600" fill="#FFFFFF" text-anchor="middle">steps reduced</text>
+<rect x="396" y="336" width="170" height="34" fill="#B91C1C" stroke="#B91C1C" stroke-width="1.2"/>
+<text x="481" y="357" font-size="11.5" font-weight="600" fill="#FFFFFF" text-anchor="middle">confidence cues added</text>
+<rect x="582" y="336" width="170" height="34" fill="#B91C1C" stroke="#B91C1C" stroke-width="1.2"/>
+<text x="667" y="357" font-size="11.5" font-weight="600" fill="#FFFFFF" text-anchor="middle">fee copy clarified</text>
+<rect x="768" y="336" width="170" height="34" fill="#B91C1C" stroke="#B91C1C" stroke-width="1.2"/>
+<text x="853" y="357" font-size="11.5" font-weight="600" fill="#FFFFFF" text-anchor="middle">win-back flow proposed</text>
+</svg>
